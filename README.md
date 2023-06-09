@@ -133,13 +133,13 @@ this cloud-hosted database.
 Finally, we'll configure and deploy our application to Heroku by using Git to
 push our code to their servers.
 
-## You Do: Deploy Book-e JSON
+## You Do: Deploying your page
 
 Today, we will be deploying the solution repo of our Book-e JSON exercise. You
 can download it from the link
 [here](https://git.generalassemb.ly/SEI-Standard-Curriculum/booke-codealong).
 
-1. Clone down the repo into your `sei/sandbox` directory.
+1. Clone down the repo into your `sei/` directory.
 1. Change into the project directory with `cd booke-codealong`
 1. Install dependencies with `npm i`.
 1. Create a .env file locally and add your environmental variable for
